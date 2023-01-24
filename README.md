@@ -17,6 +17,5 @@ Cloud infrastructure:
 - Grant admin access
 - Admin Rights Control
 - Logs
-- Ai to detect suspicious logs for installing bad software(4 examples)
 - A process that sandboxes downloaded files such as (.exe), upload them to virus.total.com and if the results are good continue the execution if adming rights are enabled.
 
