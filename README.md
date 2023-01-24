@@ -7,6 +7,7 @@ Cloud infrastructure:
 4. Virtual Machine instance
 5. Internet Gateway
 6. Different availability zone
+7. Load Balancer
 
 Приложение функционалности:
 - Различни роли
@@ -16,7 +17,7 @@ Cloud infrastructure:
 - VPN
 - Grant admin access
 - Admin Rights Control
-- Logs and Who has the rights to see them will have a monitor window 
-- Ai to detect suspicious logs for installing bad software(4 examples only just a few checks)
-- A process that sandboxes download files such as (.exe) upload to virus.total.com and if the results are good continue the execution if adming rights are enabled.
+- Logs
+- Ai to detect suspicious logs for installing bad software(4 examples)
+- A process that sandboxes downloaded files such as (.exe), upload them to virus.total.com and if the results are good continue the execution if adming rights are enabled.
 
