@@ -1,4 +1,4 @@
-Cloud based infrastructure with a desktop application for dev management and security.
+Cloud based infrastructure with a desktop application for an internal developer network.
 
 Cloud infrastructure:
 1. VPC
