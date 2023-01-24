@@ -14,7 +14,6 @@ Cloud infrastructure:
 - Роот акаунт (създаващ други акаунти с други роли)
 - Create/Delete EC2 Instances
 - AWS Commands With Clicks (Pregenerated models with functionnalities for every worker)
-- VPN
 - Grant admin access
 - Admin Rights Control
 - Logs
