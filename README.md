@@ -8,7 +8,15 @@ Cloud infrastructure:
 5. Internet Gateway
 6. Different availability zone
 
-Desktop application functionalities:
-1. Installer - (installs aws cli too)
-2. Root User - (The one who can create other users with a button to generate a random password and hash encrypt the password before uploading to the database)
-3. Different roles and admin rights
+Приложение функционалности:
+- Различни роли
+- Роот акаунт (създаващ други акаунти с други роли)
+- Create/Delete EC2 Instances
+- AWS Commands With Clicks (Pregenerated models with functionnalities for every worker)
+- VPN
+- Grant admin access
+- Admin Rights Control
+- Logs and Who has the rights to see them will have a monitor window 
+- Ai to detect suspicious logs for installing bad software(4 examples only just a few checks)
+- A process that sandboxes download files such as (.exe) upload to virus.total.com and if the results are good continue the execution if adming rights are enabled.
+
