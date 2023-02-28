@@ -16,19 +16,16 @@ Cloud infrastructure:
 
 
 Функционалности:
-- Различни роли с различни права
+- Support Account (Support permissions only)
+- Developers Account (Web Dev permissions only)
+- DevOps Account (Full permissions)
 - Роот акаунт (създаващ други акаунти с други роли)
+- High Availability
+- Auto Scaling
+- CloudWatch Logs
 - Open VPN Server
-- CloudWatch Logs 
-- Auto-Scaling
-- High-Availability Web Dev Zone with database and IIS web example server
-- Secure connection within the VPC and filter traffic
-
-
-Различните роли:
-Developer
-DevOps
-Cost Manager
-Support
-
+- IIS Web Server
+- Secured Infrastructure with inbound and outbound rules
+- Internet Gateway 
+- Load Balancer
 
