@@ -3,12 +3,12 @@ Cloud based infrastructure with a desktop application for an internal developer 
 Cloud infrastructure:
 1. VPC
 2. Three subnets
-3. 2 MySQL database 
-4. 2 Virtual Machine instance
+3. Two MySQL database 
+4. Two Virtual Machine instances
 5. Internet Gateway
-6. 3 different availability zone
+6. Three different availability zone
 7. Load Balancer
-8. 2 OpenVPN Virtual Machine instances
+8. Two OpenVPN Virtual Machine instances
 9. IIS Webserver for developers
 10. Route Tables
 11. Security Groups
