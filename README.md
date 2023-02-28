@@ -28,5 +28,4 @@ DevOps
 Cost Manager
 Support
 
-Диаграмите през периода:
 
