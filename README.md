@@ -2,20 +2,31 @@ Cloud based infrastructure with a desktop application for an internal developer 
 
 Cloud infrastructure:
 1. VPC
-2. Two subnets
-3. MySQL database 
-4. Virtual Machine instance
+2. Three subnets
+3. 2 MySQL database 
+4. 2 Virtual Machine instance
 5. Internet Gateway
-6. Different availability zone
+6. 3 different availability zone
 7. Load Balancer
+8. 2 OpenVPN Virtual Machine instances
+9. IIS Webserver for developers
 
-Приложение функционалности:
-- Различни роли
+
+Функционалности:
+- Различни роли с различни права
 - Роот акаунт (създаващ други акаунти с други роли)
-- Create/Delete EC2 Instances
-- AWS Commands With Clicks (Pregenerated models with functionnalities for every worker)
-- Grant admin access
-- Admin Rights Control
-- Logs
-- A process that sandboxes downloaded files such as (.exe), upload them to virus.total.com and if the results are good continue the execution if adming rights are enabled.
+- Open VPN Server
+- CloudWatch Logs 
+- Auto-Scaling
+- High-Availability Web Dev Zone with database and IIS web example server
+- Secure connection within the VPC and filter traffic
+
+
+Различните роли:
+Developer
+DevOps
+Cost Manager
+Support
+
+Диаграмите през периода:
 
