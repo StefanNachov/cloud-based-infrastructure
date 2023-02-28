@@ -10,6 +10,9 @@ Cloud infrastructure:
 7. Load Balancer
 8. 2 OpenVPN Virtual Machine instances
 9. IIS Webserver for developers
+10. Route Tables
+11. Security Groups
+12. NAT Gateway
 
 
 Функционалности:
